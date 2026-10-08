@@ -1,39 +1,39 @@
-# Use Case Description
+# Use Case сипаттамасы
 
 ## Actors
 
-* Passenger
-* Driver
-* Support Administrator
+- Passenger — Жолаушы
+- Driver — Жүргізуші
+- Support Administrator — Қолдау әкімшісі
 
-## Use Case 1: Create a Trip Request
+## Use Case 1: Сапарға өтінім жасау
 
-**Primary actor:** Passenger
+**Негізгі Actor:** Passenger — Жолаушы
 
-1. The passenger opens the system.
-2. The passenger selects Shymkent as the departure city and Almaty as the destination.
-3. The passenger specifies the preferred departure time.
-4. The system searches for suitable drivers.
-5. The passenger reviews the available trip options.
+1. Жолаушы жүйені ашады.
+2. Жолаушы шығу қаласы ретінде Shymkent және баратын қала ретінде Almaty қаласын таңдайды.
+3. Жолаушы қалаған шығу уақытын көрсетеді.
+4. Жүйе сәйкес жүргізушілерді іздейді.
+5. Жолаушы қолжетімді сапар нұсқаларын қарайды.
 
-## Use Case 2: Set Departure Time
+## Use Case 2: Шығу уақытын белгілеу
 
-**Primary actor:** Driver
+**Негізгі Actor:** Driver — Жүргізуші
 
-1. The driver opens the system.
-2. The driver specifies the departure date and time.
-3. The system saves the driver's availability.
-4. The system can match suitable passenger requests with the driver.
+1. Жүргізуші жүйені ашады.
+2. Жүргізуші шығу күні мен уақытын көрсетеді.
+3. Жүйе жүргізушінің қолжетімді уақытын сақтайды.
+4. Жүйе сәйкес жолаушылардың өтінімдерін жүргізушімен сәйкестендіре алады.
 
-## Use Case 3: Resolve a Dispute
+## Use Case 3: Дауды шешу
 
-**Primary actor:** Support Administrator
+**Негізгі Actor:** Support Administrator — Қолдау әкімшісі
 
-1. A passenger or driver reports a problem.
-2. The support administrator reviews the trip information.
-3. The administrator communicates with the involved users.
-4. The issue is reviewed and a resolution is provided.
+1. Жолаушы немесе жүргізуші мәселе туралы хабарлайды.
+2. Қолдау әкімшісі сапар туралы ақпаратты қарайды.
+3. Әкімші қатысушы пайдаланушылармен байланысады.
+4. Мәселе қаралып, шешім ұсынылады.
 
-## Expected Result
+## Күтілетін нәтиже
 
-The system helps passengers and drivers coordinate intercity trips and reduces unnecessary communication.
+Жүйе жолаушылар мен жүргізушілерге қалааралық сапарларды тиімді ұйымдастыруға көмектеседі және қажетсіз байланысты азайтады.
