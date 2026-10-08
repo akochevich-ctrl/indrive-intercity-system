@@ -1,48 +1,30 @@
-# Use Case Description
+# System Requirements
 
-## Actors
+## 1. Functional Requirements
 
-* Passenger
-* Driver
-* Support Administrator
+1. The system shall allow drivers to specify their departure time.
+2. The system shall allow passengers to submit intercity trip requests.
+3. The system shall match trip requests with suitable drivers.
+4. The system shall display trip information to passengers.
+5. The system shall allow passengers and drivers to agree on the destination before departure.
+6. The system shall provide a way to contact support.
 
-## Use Case 1: Create a Trip Request
+## 2. Non-Functional Requirements
 
-**Primary actor:** Passenger
+1. The system should be easy to use.
+2. The system should protect user information.
+3. The system should provide clear and understandable trip information.
+4. The system should respond to user actions efficiently.
 
-1. The passenger opens the system.
-2. The passenger selects Shymkent as the departure city and Almaty as the destination.
-3. The passenger specifies the preferred departure time.
-4. The system searches for suitable drivers.
-5. The passenger reviews the available trip options.
+## 3. Users
 
-## Use Case 2: Set Departure Time
+- Passenger
+- Driver
+- Support Administrator
 
-**Primary actor:** Driver
+## 4. Project Route
 
-1. The driver opens the system.
-2. The driver specifies the departure date and time.
-3. The system saves the driver's availability.
-4. The system can match suitable passenger requests with the driver.
-
-## Use Case 3: Resolve a Dispute
-
-**Primary actor:** Support Administrator
-
-1. A passenger or driver reports a problem.
-2. The support administrator reviews the trip information.
-3. The administrator communicates with the involved users.
-4. The issue is reviewed and a resolution is provided.
-
-## Expected Result
-
-The system helps passengers and drivers coordinate intercity trips and reduces unnecessary communication.
-
-## Future Improvements
-
-- Add a driver availability management interface.
-- Improve passenger-driver matching.
-- Add trip status notifications.
+Shymkent — Almaty
 
 ## Future Improvements
 
