@@ -1,33 +1,33 @@
-# System Requirements
+# Жүйеге қойылатын талаптар
 
-## 1. Functional Requirements
+## 1. Функционалдық талаптар
 
-1. The system shall allow drivers to specify their departure time.
-2. The system shall allow passengers to submit intercity trip requests.
-3. The system shall match trip requests with suitable drivers.
-4. The system shall display trip information to passengers.
-5. The system shall allow passengers and drivers to agree on the destination before departure.
-6. The system shall provide a way to contact support.
+1. Жүйе жүргізушілерге шығу уақытын көрсетуге мүмкіндік беруі керек.
+2. Жүйе жолаушыларға қалааралық сапарға өтінім беруге мүмкіндік беруі керек.
+3. Жүйе сапар өтінімдерін сәйкес жүргізушілермен сәйкестендіруі керек.
+4. Жүйе жолаушыларға сапар туралы ақпаратты көрсетуі керек.
+5. Жүйе жолаушы мен жүргізушіге жолға шығар алдында баратын жерді келісуге мүмкіндік беруі керек.
+6. Жүйе Support қызметімен байланысу мүмкіндігін қамтамасыз етуі керек.
 
-## 2. Non-Functional Requirements
+## 2. Функционалдық емес талаптар
 
-1. The system should be easy to use.
-2. The system should protect user information.
-3. The system should provide clear and understandable trip information.
-4. The system should respond to user actions efficiently.
+1. Жүйе қолдануға ыңғайлы болуы керек.
+2. Жүйе пайдаланушылардың ақпаратын қорғауы керек.
+3. Жүйе сапар туралы түсінікті ақпарат беруі керек.
+4. Жүйе пайдаланушы әрекеттеріне тиімді жауап беруі керек.
 
-## 3. Users
+## 3. Пайдаланушылар
 
-- Passenger
-- Driver
-- Support Administrator
+- Passenger — Жолаушы
+- Driver — Жүргізуші
+- Support Administrator — Қолдау әкімшісі
 
-## 4. Project Route
+## 4. Жоба бағыты
 
 Shymkent — Almaty
 
-## Future Improvements
+## Болашақта жетілдіру
 
-- Add a driver availability management interface.
-- Improve passenger-driver matching.
-- Add trip status notifications.
+- Жүргізушілердің қолжетімді уақытын басқару интерфейсін қосу.
+- Жолаушы мен жүргізушіні сәйкестендіруді жақсарту.
+- Сапар статусы туралы хабарламалар қосу.
