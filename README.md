@@ -1,47 +1,48 @@
-# inDrive Intercity Information System
+# inDrive қалааралық ақпараттық жүйесі
 
-## Project Overview
+## Жоба туралы
 
-This project focuses on improving the inDrive Intercity service between Shymkent and Almaty.
+Бұл жоба Shymkent және Almaty қалалары арасындағы inDrive қалааралық қызметін жақсартуға бағытталған.
 
-The main problem is that ride requests may be sent to multiple drivers, resulting in unnecessary calls and wasted time. The proposed solution allows drivers to specify their preferred departure time in advance.
+Негізгі мәселе — сапарға өтінім бірнеше жүргізушіге бір уақытта жіберілуі мүмкін, бұл қажетсіз қоңыраулар мен уақыттың босқа жұмсалуына әкеледі. Ұсынылып отырған шешім жүргізушілерге өздерінің қалаған шығу уақытын алдын ала көрсетуге мүмкіндік береді.
 
-## Project Goal
+## Жобаның мақсаты
 
-To improve communication between passengers and drivers, reduce unnecessary calls, and make intercity trip arrangements more efficient.
+Жолаушылар мен жүргізушілер арасындағы байланысты жақсарту, қажетсіз қоңырауларды азайту және қалааралық сапарларды ұйымдастыруды тиімді ету.
 
-## Main Features
+## Негізгі функциялар
 
-* Driver departure time selection
-* Matching passengers with suitable drivers
-* Trip information management
-* Agreement on the destination before departure
-* Support service for resolving disputes
+- Жүргізушінің шығу уақытын таңдау
+- Жолаушыны сәйкес жүргізушімен сәйкестендіру
+- Сапар туралы ақпаратты басқару
+- Жолға шығар алдында баратын жерді келісу
+- Дауларды шешу үшін Support қызметі
 
-## Project Structure
+## Жоба құрылымы
 
-* `README.md` — project overview
-* `docs/requirements.md` — system requirements
-* `docs/use-case.md` — use case description
-* `docs/diagrams/` — project diagrams
+- `README.md` — жобаның жалпы сипаттамасы
+- `docs/requirements.md` — жүйенің талаптары
+- `docs/use-case.md` — Use Case сипаттамасы
+- `docs/diagrams/` — жоба диаграммалары
 
-## Technologies
+## Қолданылған технологиялар
 
-* Git
-* GitHub
-* Markdown
+- Git
+- GitHub
+- Markdown
 
-## Project Route
+## Жоба бағыты
 
 Shymkent — Almaty
 
+## Жоба статусы
 
-## Project Status
+Жобаның бастапқы құжаттамасы құрылды.
 
-The initial project documentation has been created.
-The system requirements and use cases are documented.
+Жүйенің талаптары мен Use Case сценарийлері құжатталды.
 
-## Driver Availability Feature
+## Болашақта жетілдіру
 
-Drivers can specify their preferred departure date and time.
-The system uses this information to match passengers with suitable drivers.
+- Жүргізушілердің қолжетімді уақытын басқару интерфейсін қосу
+- Жолаушы мен жүргізушіні сәйкестендіруді жақсарту
+- Сапар статусы туралы хабарламалар қосу
