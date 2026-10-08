@@ -37,3 +37,15 @@
 ## Expected Result
 
 The system helps passengers and drivers coordinate intercity trips and reduces unnecessary communication.
+
+## Future Improvements
+
+- Add a driver availability management interface.
+- Improve passenger-driver matching.
+- Add trip status notifications.
+
+## Future Improvements
+
+- Add a driver availability management interface.
+- Improve passenger-driver matching.
+- Add trip status notifications.
