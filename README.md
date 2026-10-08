@@ -40,7 +40,8 @@ Shymkent — Almaty
 
 The initial project documentation has been created.
 The system requirements and use cases are documented.
-## Project Status
 
-The initial project documentation has been created.
-The system requirements and use cases are documented.
+## Driver Availability Feature
+
+Drivers can specify their preferred departure date and time.
+The system uses this information to match passengers with suitable drivers.
