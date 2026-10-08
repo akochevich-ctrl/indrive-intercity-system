@@ -45,3 +45,5 @@ The system requirements and use cases are documented.
 
 Drivers can specify their preferred departure date and time.
 The system uses this information to match passengers with suitable drivers.
+## Project Update
+Driver departure time feature has been added.
